@@ -15,7 +15,10 @@
 <br />
 <div align="center">
     <a href="https://www.linkedin.com/in/maro-398715a1/" target="blank">
-        <img align="center" src="https://img.shields.io/badge/-Maro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maro-398715a1/" alt="https://www.linkedin.com/in/maro-398715a1/" />
+        <img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maro-398715a1/" alt="https://www.linkedin.com/in/maro-398715a1/" />
+    </a>
+    <a href="https://www.linkedin.com/in/maro-398715a1/" target="blank">
+        <img align="center" src="https://img.shields.io/badge/-Stack%20Overflow-orange?style=flat-square&logo=StackOverflow&logoColor=white&link=https://stackoverflow.com/users/4078143/mxr7350" alt="https://stackoverflow.com/users/4078143/mxr7350" />
     </a>
 </div>
 
