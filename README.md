@@ -30,7 +30,7 @@ posture: secure-by-design · responsible AI · evidence over hype
 
 I sit at the seam where **AI capability meets public-sector reality** — where a clever model has to survive security accreditation, real users, and a permanent secretary asking *"but does it actually work?"*
 
-Right now I'm embedded in **[DSIT's AI Engineering Lab](https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology)** — the first UK Government programme to scale AI coding assistants (Claude Code, GitHub Copilot, Gemini) across **1,000+ engineers** in departments including UKHSA, Home Office, HMRC, MoJ, ONS and NHS. I lead the Forward Deployed Engineer community and own the adoption workstream end to end.
+Right now I'm embedded in **[DSIT's AI Engineering Lab](https://github.com/govuk-digital-backbone/aiengineeringlab)** — the first UK Government programme to scale AI coding assistants (Claude Code, GitHub Copilot, Gemini, Kiro) across **1,000+ engineers** in departments including UKHSA, Home Office, HMRC, UKEF and NHS. I lead the Forward Deployed Engineers and own the adoption workstream end to end.
 
 Before that I took **Cafcass AI Scribe** from proof-of-concept to production: **1,500+ advisors, 80,000+ letters a month**, Gartner *Eye on Innovation* runner-up.
 
@@ -39,7 +39,7 @@ Before that I took **Cafcass AI Scribe** from proof-of-concept to production: **
 - 🧠 **The "prompt whisperer"** — I get more out of these tools than most, then give the patterns away.
 - 🤖 **MaroBot** — a Claude Skill grounded in my own review style, so my feedback scales beyond me. I stopped being the bottleneck by *building a version of myself*.
 - 🏛️ **Government-grade AI** — ATRS, EU AI Act, NCSC, Cyber Essentials Plus, GDS Service Standard. The boring stuff that decides whether AI ships or dies.
-- 🔁 **See one, do one, teach one** — took five Senior FDEs from shadowing to leading their own departments in a single quarter.
+- 🔁 **See one, do one, teach one** — I lead by making other people independent, not indispensable to me.
 
 ### `> currently`
 
