@@ -30,7 +30,7 @@ posture: secure-by-design · responsible AI · evidence over hype
 
 I sit at the seam where **AI capability meets public-sector reality** — where a clever model has to survive security accreditation, real users, and a permanent secretary asking *"but does it actually work?"*
 
-Right now I'm embedded in **[DSIT's AI Engineering Lab](https://github.com/govuk-digital-backbone/aiengineeringlab)** — the first UK Government programme to scale AI coding assistants (Claude Code, GitHub Copilot, Gemini, Kiro) across **1,000+ engineers** in departments including UKHSA, Home Office, HMRC, UKEF and NHS. I lead the Forward Deployed Engineers and own the adoption workstream end to end.
+Right now I'm embedded in **[DSIT's AI Engineering Lab](https://govuk-digital-backbone.github.io/aiengineeringlab_signpost/)** — the first UK Government programme to scale AI coding assistants (Claude Code, GitHub Copilot, Gemini, Kiro) across **1,000+ engineers** in departments including UKHSA, Home Office, HMRC, UKEF and NHS. I lead the Forward Deployed Engineers and own the adoption workstream end to end.
 
 Before that I took **Cafcass AI Scribe** from proof-of-concept to production: **1,500+ advisors, 80,000+ letters a month**, Gartner *Eye on Innovation* runner-up.
 
