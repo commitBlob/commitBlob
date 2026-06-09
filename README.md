@@ -24,6 +24,7 @@ role:    AI Solution Architect · Lead Forward Deployed Engineer
 mission: take GenAI from "interesting demo" to "production service civil servants depend on"
 context: 11+ yrs software engineering · 2+ yrs shipping GenAI inside UK Government
 posture: secure-by-design · responsible AI · evidence over hype
+belief:  the differentiator isn't the model — it's how you build around it
 ```
 
 ### `> whoami`
@@ -44,6 +45,7 @@ Before that I took **Cafcass AI Scribe** from proof-of-concept to production: **
 ### `> currently`
 
 ```diff
++ Claude Certified Architect — first at Version 1 to earn it
 + Scaling AI coding assistants across UK central government
 + Authoring reusable Claude Skills as institutional capability, not personal hacks
 ~ Always learning — the field moves weekly, so do I
@@ -79,7 +81,7 @@ Before that I took **Cafcass AI Scribe** from proof-of-concept to production: **
 
 <br />
 
-**MSc Artificial Intelligence, University of Bath** · British Citizen · SC Cleared
+**MSc Artificial Intelligence, University of Bath** · **Claude Certified Architect** · British Citizen · SC Cleared
 
 <sub>Open to conversations about hard AI problems in regulated environments.</sub>
 
