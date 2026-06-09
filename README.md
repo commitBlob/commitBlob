@@ -35,8 +35,6 @@ Right now I'm embedded in **[DSIT's AI Engineering Lab](https://govuk-digital-ba
 
 Before that I took **Cafcass AI Scribe** from proof-of-concept to production: **1,500+ advisors, 80,000+ letters a month**, Gartner *Eye on Innovation* runner-up.
 
-Certifications build the knowledge — **Claude Certified Architect**, most recently — but the real learning happens with your head down, hands-on, building.
-
 ### `> what I'm known for`
 
 - 🧠 **The "prompt whisperer"** — I get more out of these tools than most, then give the patterns away.
