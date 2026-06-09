@@ -24,6 +24,7 @@ role:    AI Solution Architect · Lead Forward Deployed Engineer
 mission: take GenAI from "interesting demo" to "production service civil servants depend on"
 context: 11+ yrs software engineering · 2+ yrs shipping GenAI inside UK Government
 posture: secure-by-design · responsible AI · evidence over hype
+belief:  the differentiator isn't the model — it's how you build around it
 ```
 
 ### `> whoami`
@@ -33,6 +34,8 @@ I sit at the seam where **AI capability meets public-sector reality** — where 
 Right now I'm embedded in **[DSIT's AI Engineering Lab](https://govuk-digital-backbone.github.io/aiengineeringlab_signpost/)** — the first UK Government programme to scale AI coding assistants (Claude Code, GitHub Copilot, Gemini, Kiro) across **1,000+ engineers** in departments including UKHSA, Home Office, HMRC, UKEF and NHS. I lead the Forward Deployed Engineers and own the adoption workstream end to end.
 
 Before that I took **Cafcass AI Scribe** from proof-of-concept to production: **1,500+ advisors, 80,000+ letters a month**, Gartner *Eye on Innovation* runner-up.
+
+Certifications build the knowledge — **Claude Certified Architect**, most recently — but the real learning happens with your head down, hands-on, building.
 
 ### `> what I'm known for`
 
@@ -44,6 +47,7 @@ Before that I took **Cafcass AI Scribe** from proof-of-concept to production: **
 ### `> currently`
 
 ```diff
++ Claude Certified Architect — first at Version 1 to earn it
 + Scaling AI coding assistants across UK central government
 + Authoring reusable Claude Skills as institutional capability, not personal hacks
 ~ Always learning — the field moves weekly, so do I
@@ -79,7 +83,7 @@ Before that I took **Cafcass AI Scribe** from proof-of-concept to production: **
 
 <br />
 
-**MSc Artificial Intelligence, University of Bath** · British Citizen · SC Cleared
+**MSc Artificial Intelligence, University of Bath** · **Claude Certified Architect** · British Citizen · SC Cleared
 
 <sub>Open to conversations about hard AI problems in regulated environments.</sub>
 
